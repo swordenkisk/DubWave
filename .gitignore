@@ -1,0 +1,9 @@
+# .gitignore
+.env
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.srt
+.DS_Store
